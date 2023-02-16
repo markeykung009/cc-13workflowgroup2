@@ -1,1 +1,1 @@
-hello my friendfddsfsa
+const a = "a";
